@@ -8,7 +8,7 @@ Configuracion de red en Virtual box :
 
 Adaptador 1 NAT (eth0)
 
-Adaptador 2 Modo puente (selecionais la interface quevas a usar para lanzar el exploit)
+Adaptador 2 Modo puente (selecionais la interface que vayais a usar para lanzar el exploit)
 (eth1)
 
 https://drive.google.com/file/d/17qpuUONFhe6cLFnAgKiLUUcAAKhgBaBz/view?usp=sharing
